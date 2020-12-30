@@ -29,7 +29,7 @@ let homepage = function () {
 
     this.verifyResult = function (result) {
         let output = element(by.cssContainingText('.ng-binding', result));
-        expect(output.getText()).toEqual(result);
+        expect(output.getText()).toEqual(result);     
     }
 
 };
