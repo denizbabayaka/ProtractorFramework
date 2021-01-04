@@ -62,7 +62,7 @@ describe('demo calculator test', function () {
 
         //element(by.css('[ng-click="doAddition()"]')).click();
 
-        homepage.clickGo2();
+        homepage.clickGo();
 
         //var result = element(by.cssContainingText('.ng-binding', '7'));
 
