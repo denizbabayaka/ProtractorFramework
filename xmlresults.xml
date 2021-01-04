@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites disabled="0" errors="0" failures="1" tests="2" time="4.917">
- <testsuite name="demo calculator test" timestamp="2020-12-30T12:02:35" hostname="localhost" time="4.917" errors="0" tests="2" skipped="0" disabled="0" failures="1">
-  <testcase classname="demo calculator test" name="addition test" time="4.645" />
-  <testcase classname="demo calculator test" name="substraction test" time="0.268">
+<testsuites disabled="0" errors="0" failures="1" tests="2" time="4.864">
+ <testsuite name="demo calculator test" timestamp="2021-01-03T22:30:51" hostname="localhost" time="4.864" errors="0" tests="2" skipped="0" disabled="0" failures="1">
+  <testcase classname="demo calculator test" name="addition test" time="4.599" />
+  <testcase classname="demo calculator test" name="substraction test" time="0.263">
    <failure type="exception" message="Failed: homepage.clickGo2 is not a function"><![CDATA[TypeError: homepage.clickGo2 is not a function
     at UserContext.<anonymous> (C:\Users\deniz\OneDrive\Desktop\Projects\ProtractorDemo\tests\calculator.js:65:18)
     at C:\Users\deniz\AppData\Roaming\npm\node_modules\protractor\node_modules\jasminewd2\index.js:112:25
